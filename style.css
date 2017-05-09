@@ -1,0 +1,79 @@
+#space {
+	height: 100px;
+	margin: auto;
+}
+
+#googlelogo, .logo {
+	height: 275px;
+	margin: auto;
+	display: block;
+}
+
+#searchfield {
+	margin: auto;
+	display: block;
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16),0 0 0 1px rgba(0,0,0,0.08);
+	border: medium none;
+	border-width: 2px; 
+	height: 44px;
+	width: 584px;
+	outline: medium none;
+	background: transparent;
+}
+
+#searchfield:focus {
+	border: medium none;
+	box-shadow: 5px 5px 10px rgba(0,0,0,0.16),0 0 0 1px rgba(0,0,0,0.08);
+}
+
+#buttons {
+	width: 306px;
+	margin: auto;
+	display: block;
+}
+
+.button {
+	color: #222;
+	font-family: arial,sans-serif;
+	height: 36px;
+	line-height: 27px;
+	background-image: -moz-linear-gradient(top, #f5f5f5, #f1f1f1);
+	background-color: #f2f2f2;
+	border: 1px solid #f2f2f2;
+	border-radius: 2px;
+	color: #757575;
+	font-size: 13px;
+	font-weight: bold;
+	margin: 11px 4px;
+	min-width: 54px;
+	padding: 0 16px;
+	text-align: center;
+}
+
+.button:hover {
+	background-image: -moz-linear-gradient(top, #f8f8f8, #f1f1f1);
+	background-color: #f8f8f8;
+	border: 1px solid #c6c6c6;
+	box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+	color: #222;
+}
+
+#mynavbar {
+	position: absolute;
+	right: 1em;
+}
+
+.navbar {
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	opacity: .75;
+	text-decoration: none;
+}
+
+.navbar .button {
+	
+}
+
+.navbar:hover {
+	text-decoration: underline;
+}
