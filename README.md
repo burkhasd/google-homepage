@@ -10,4 +10,4 @@ Project goals include knowing the following:
 - Reactive to changing browser size
 - Proper display on mobile devices
 
-From The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css)
+From The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css) 
